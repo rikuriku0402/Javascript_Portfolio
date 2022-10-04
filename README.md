@@ -1,1 +1,3 @@
 # Javascript_Portfolio
+
+学校の制作の一部でポートフォリオサイトを作っています。
