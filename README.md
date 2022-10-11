@@ -1,3 +1,5 @@
 # Javascript_Portfolio
 
 学校の制作の一部でポートフォリオサイトを作っています。
+
+今はWixで作っているのですが、後々JavaScriptで制作しようと思っています。
