@@ -1,32 +1,67 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
 h1
 {
-    color: red;
+    color: rgb(255, 245, 98);
     font-size: 5rem;
-    background-color: pink;
-    padding: 2rem 0;
+    background-color: rgb(255, 147, 163);
     text-align: center;
-}
-.PlayerName
-{
-    color: green;
-    font-size: 1rem;
-    text-align: center;
-
-    font-family: 'helvetica neue', helvetica, sans-serif;
-    letter-spacing: 1px;
-    text-transform: uppercase;
-    text-align: center;
-    border: 2px solid rgba(0,0,200,0.6);
-    background: rgba(24, 24, 158, 0.3);
-    color: rgba(0,0,200,0.6);
-    box-shadow: 1px 1px 2px rgba(0,0,200,0.4);
-    border-radius: 10px;
-    padding: 3px 10px;
-    display: inline-block;
-    cursor: pointer;
 }
 input
 {
     color: orange;
     text-align: center;
+}
+.class1
+{
+    text-align: center;
+    margin: auto;
+}
+img
+{
+    vertical-align: middle;
+}
+
+.myimg
+{
+    width: 1000;
+    height: 1080px;
+    text-align: center;
+    margin: 0 auto;
+    
+}
+.githubimg
+{
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    margin: auto;
+}
+.img-responsive
+{
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+.top-banner-area
+{
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+.slick-track
+{
+    margin: auto;
+}
+.center-block
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.warp
+{
+    display: flex;
 }
